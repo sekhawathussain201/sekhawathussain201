@@ -1,62 +1,89 @@
-# 👋 Hi, I'm  Sekhawat Hussain
+# Hi 👋, I'm Sekhawat Hussain
 
-✨ Passionate about creating clean, responsive, and user-friendly websites.
+<div align="center">
+
+### 💻 Software Development Student | Front-End Developer | Lifelong Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Student;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I have **8 months of experience** in web development  
-- 📚 I am continuously learning and improving my skills  
-- 🎯 I enjoy turning ideas into real web interfaces  
-- 🌱 Focused on frontend development  
+I am **Sekhawat Hussain**, a passionate **Software Development Student** with **8 months of hands-on experience** in front-end web development. I enjoy transforming ideas into responsive, interactive, and user-friendly web applications.
+
+My focus is on building modern websites using industry-standard technologies while continuously improving my coding skills and exploring new development practices.
+
+I am enthusiastic about learning, solving problems, and contributing to projects that help me grow as a developer.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
-- ✅ **HTML5** – Structure & semantic markup  
-- 🎨 **CSS3** – Styling, layouts, animations  
-- 📱 **Bootstrap** – Responsive & mobile-first design  
-- ⚡ **JavaScript** – Basics, DOM manipulation, logic  
+### Front-End Development
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github" />
+</p>
 
-## 📚 What I’ve Learned So Far
+### Additional Skills
 
-- Creating responsive web pages  
-- Designing modern UI layouts  
-- Using Bootstrap components effectively  
-- JavaScript basics (events, functions, DOM)  
-
----
-
-## 📂 Projects
-
-Here are some types of projects I have worked on:
-
-- 🕒 Digital Clock  
-- 📝 Notes App  
-- 🐍 Snake Game Grid  
-- 🎨 UI Designs with HTML & CSS  
-
-> More projects coming soon 🚧
+- 🎨 Animate.css
+- 📱 Responsive Web Design
+- 🔥 Interactive User Interfaces
+- 🌐 Modern Web Development Practices
+- 📂 Version Control with GitHub
 
 ---
 
-## 🎯 Goals
+## 📊 GitHub Stats
 
-- 🔹 Improve JavaScript skills  
-- 🔹 Learn advanced frontend frameworks in future  
-- 🔹 Build real-world web applications  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
----
-
-## 📬 Contact Me
-
-- 💼 GitHub: *Your GitHub Link Here*  
-- 📧 Email: *your-email@example.com*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐ *Thank you for visiting my profile!*  
+## 🎯 Current Goals
+
+- 📚 Strengthen JavaScript skills
+- 🚀 Build more real-world projects
+- 🌐 Learn modern web frameworks
+- 🤝 Contribute to open-source projects
+- 💼 Grow as a professional software developer
+
+---
+
+## 💡 What I Love
+
+- Creating beautiful and responsive websites
+- Learning new technologies
+- Solving coding challenges
+- Improving UI/UX experiences
+- Building projects from scratch
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Improve. Repeat."
+
+Thanks for visiting my profile! 🚀
+
+</div>
