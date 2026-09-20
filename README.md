@@ -4,7 +4,7 @@
 
 ### 💻 Software Development Student | Front-End Developer | Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Student;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Software+Development+Student;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -41,11 +41,11 @@ I am enthusiastic about learning, solving problems, and contributing to projects
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7B00&icon_color=FF9F1C&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&stroke=FF7B00&ring=FF7B00&fire=FF9F1C&currStreakLabel=FF7B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ I am enthusiastic about learning, solving problems, and contributing to projects
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF7B00"/>
   </a>
 </p>
 
